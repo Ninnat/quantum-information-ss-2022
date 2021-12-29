@@ -4,9 +4,9 @@ Special Topic: Path Integrals and Classical Subtheories of Quantum Mechanics
 ## Schedule
 
 | Week     |     Topics    |  Readings | Homework  |
-|----------|:-------------:|------:|------:|
+|----------|:--------------|:------|------|
 |1|Lagrangian and Hamiltonian formulations of classical mechanics, Liouvillian ([notes](https://github.com/Ninnat/classical-subtheories/blob/main/Lecture%20notes/classical_mech.pdf))||HW1|
-|2|Classical and quantum probabilities, Sum over paths| ||
+|2|Classical and quantum probabilities, Sum over paths, Gaussian integrals| ||
 |3-8|Clifford/Stabilizer subtheory| ||
 |9-15|Lie groups, Lie algebras, and their linear representations, "Second quantization" (occupation-number representation), Fermionic linear optics/matchgate subtheory|||
 
