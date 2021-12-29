@@ -9,6 +9,8 @@ Special Topic: Path Integrals and Classical Subtheories of Quantum Mechanics
 
 ## Course description
 
+The course explores correspondence (and non-correspondence) between physicists' notion of classicality and computer scientists' notion of efficient classical simulability on the one hand, and between quantumness and classical intractability on the other hand. Feynman's path integral formulation of quantum mechanics suggests that quantum dynamics governed by Hamiltonians quadratic in the position and momentum operators can be calculated via Gaussian integrals...
+
 ## References (tentative)
 
 - [Quantum circuit dynamics via path integrals: Is there a classical action for discrete-time paths?](https://arxiv.org/abs/1604.07452), 
