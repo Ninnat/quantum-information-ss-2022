@@ -5,4 +5,4 @@ Special Topic: Path Integrals and Classical Subtheories of Quantum Mechanics
 
 | Week     |     Topics    |  Readings | Homework  |
 |----------|:-------------:|------:|------:|
-|1|Lagrangian and Hamiltonian formulations of classical mechanics, Liouvillian (notes)[]||HW1|
+|1|Lagrangian and Hamiltonian formulations of classical mechanics, Liouvillian [Notes](https://github.com/Ninnat/classical-subtheories/blob/main/Lecture%20notes/classical_mech.pdf)||HW1|
