@@ -2,10 +2,10 @@
 
 ## Schedule
 
-| Lectures |     Topics    |  Readings | Homework |
+|Week| Class sessions |     Topics    |  Readings | Homework |
 |:----:|:--------------|:----------|:--------:|
-|L1|Review, the harmonic oscillator; coherent states||HW1|
-|T1|Group theory||
+|1|L1-2| Review of the postulates of QM, the harmonic oscillator; coherent states||HW1|
+||T1|Group axioms, representation theory I|||
 
 ## Course description
 
