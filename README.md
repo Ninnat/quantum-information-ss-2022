@@ -2,9 +2,19 @@
 
 ## Schedule
 
-|Session|Date and Time | Topics |
+|Week|Time | Topics |
 |:----:|:--------------|:-------|
-|1|9:00-10:30|Scope of QIS, review of quantum theory in finite dimensions, unitary evolutions, projective measurements, tensor product, circuit diagram, quanntum gates|  
+|1|8:30-10:00|Scope of QIS, review of quantum theory in finite dimensions, unitary evolutions, projective measurements, tensor product, circuit diagram, quanntum gates|  
+|1|10:30-12:00||
+|1|13:30-15:00||
+|1|15:30-17:00||
+|1|18:30-20:00|Tutorial|
+|2|13:30-15:00||
+|2|10:30-12:00||
+|2|13:30-15:00||
+|2|15:30-17:00||
+|2|18:30-20:00|Tutorial|
+
 
 ## Course description
 
