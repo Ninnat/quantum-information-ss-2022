@@ -1,11 +1,10 @@
-# Quantum mechanics 2022/2
+# IF Summer School 2022
 
 ## Schedule
 
-|Week| Class sessions |     Topics    |  Readings | Homework |
-|:----:|:--------------|:----------|:--------:|
-|1|L1-2| Review of the postulates of QM, the harmonic oscillator; coherent states||HW1|
-||T1|Group axioms, representation theory I|||
+|Session|Date and Time | Topics |
+|:----:|:--------------|:-------|
+|1|9:00-10:30|Scope of QIS, review of quantum theory in finite dimensions, unitary evolutions, projective measurements, tensor product, circuit diagram, quanntum gates|  
 
 ## Course description
 
