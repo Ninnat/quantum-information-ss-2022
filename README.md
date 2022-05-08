@@ -2,18 +2,23 @@
 
 ## Schedule
 
-|Week|Time | Topics |
+Quantum information are on Thursday 2 and 9 June. We have a total of 10 1.5-hour sessions separated by breaks.
+
+* [Ba] Leslie E. Ballentine, *Quantum Theory: A Modern Development*, World Scientific, 1998.
+* [Pr]  Preskill
+
+|Session| Topics | Resources |
 |:----:|:--------------|:-------|
-|1|8:30-10:00|Scope of QIS, review of quantum theory in finite dimensions, unitary evolutions, projective measurements, tensor product, circuit diagram, quanntum gates|  
-|1|10:30-12:00||
-|1|13:30-15:00||
-|1|15:30-17:00||
-|1|18:30-20:00|Tutorial|
-|2|13:30-15:00||
-|2|10:30-12:00||
-|2|13:30-15:00||
-|2|15:30-17:00||
-|2|18:30-20:00|Tutorial|
+|1|Scope of quantum information science, Review of bra-ket notation, Qubit, | Ba 1,   
+|2|
+|3|
+|4|
+|5|Tutorial|
+|6|
+|7|
+|8|
+|9|
+|10|Tutorial|
 
 
 ## Course description
