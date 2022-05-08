@@ -9,7 +9,8 @@ Quantum information are on Thursday 2 and 9 June. We have a total of 10 1.5-hour
 
 |Session| Topics | Resources |
 |:----:|:--------------|:-------|
-|1|Scope of quantum information science, Classical randomness, Review of bra-ket notation, Qubit \br aa | Ba 1,   
+|1|Scope of quantum information science, Classical randomness, Review of bra-ket notation, Qubit <br> 
+Density operator formalism | Ba 1,   
 |2|
 |T|Tutorial|
 |3|
