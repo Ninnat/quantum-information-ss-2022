@@ -9,8 +9,8 @@ Quantum information are on Thursday 2 and 9 June. We have a total of 10 1.5-hour
 
 |Session| Topics | Resources |
 |:----:|:--------------|:-------|
-|1|Scope of quantum information science, Review of bra-ket notation, Bit and qubit, Classical randomness <br> | Ba 1|
-|2| Density operator formalism | |   
+|1|Scope of quantum information science, Review of the bra-ket notation, operators, and tensor products, Qubit <br> | [Zweibach's notes for MIT8.05]|
+|2|Application of qubit measurements and unitary transformations: the Elitzur-Vaidman bomb detector,Density operator formalism, Coherence, Bell entangled states  |[Harrow's notes for MIT8.06](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/) on Entanglement, density matrices, and decoherence |   
 |3|
 |4|
 |T|Tutorial|
@@ -22,13 +22,10 @@ Quantum information are on Thursday 2 and 9 June. We have a total of 10 1.5-hour
 
 
 ## Course description
-
-In the second half of the course, we continue to illustrate how the principles of quantum mechanics work in simple systems, namely the harmonic oscillator, two-level systems, and systems that possess angular momenta. 
-
-## Grading 
+Quantum information science capitalizes on quantum weirdness. In these lectures, I will eventually focus on a particular application of quantum weirdness: quantum computing. The goal is to show you that primitives from quantum information theory such as teleportation can be applied in an interesting way.
 
 
-## Tentative references
+<!-- ## Tentative references
 
 * [Ma] E.B. Manoukian, *Quantum Theory: A Wide Spectrum*, Springer, 2006.
 * [C-T] Claude Cohen-Tannoudji, Bernard Diu, and Franck Laloë, *Quantum Mechanics*, 2 volumes, Wiley-VCH, 1977. 
@@ -38,4 +35,4 @@ In the second half of the course, we continue to illustrate how the principles o
 
 ### Further resources
 
-* [Lecture notes](http://bohr.physics.berkeley.edu/classes/221/1011/221a.html) for Physics 221A Quantum Mechanics by Robert Littlejohn, UC Berkeley
+* [Lecture notes](http://bohr.physics.berkeley.edu/classes/221/1011/221a.html) for Physics 221A Quantum Mechanics by Robert Littlejohn, UC Berkeley-->
