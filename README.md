@@ -20,11 +20,11 @@ The first three references are undergraduate level. The first one especially is 
 |:----:|:--------------|:-------|
 |1|Scope of quantum information science, Probability theory, Review of the bra-ket notation and linear opererators, Qubit <br> | Zw 2,3,4,7 <br> SW 2,3,4.5|
 |2|Qubit (cont.), Elitzur-Vaidman bomb tester, Composite systems and tensor product, Density operators | <br> Zw 8 ["Multiparticle states and tensor product"](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_08/) <br> [Ha](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/), SW 6,8, Pr 2 |   
-|3| Quantum eraser, Bell nonlocality, Dense coding, Teleportation | |
+|3| Density operators and entanglement (cont.): quantum eraser, Bell nonlocality, Dense coding, Teleportation | |
 |4| Quantum circuit model, Generalized measurements, Examples of non-unitary evolutions: depolarizing and dephasing channels, Decoherence |Pr 3|
 |T|Tutorial|
 |5| Universal gate sets, Grover's search algorithm|Pr 5,6|
-|6| Simon's algorithm, Quantum phase estimation|Pr 6|
+|6| Algorithms with black-box exponential speedup: Simon's algorithm, Quantum phase estimation|Pr 6|
 |7| Graph states and stabilizer states, Gottesman-Knill theorem, Measurement-based quantum computation|Pr notes on cluster states, Fu|
 |8| Quantum error correction, Surface code|Pr 7, notes on toric code|
 |T|Tutorial|
