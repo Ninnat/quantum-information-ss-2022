@@ -1,14 +1,20 @@
 # IF Summer School 2022
 
-## Schedule
 
-Quantum information are on Thursday 2 and 9 June. We will have a total of 8 one-and-a-half-hour lecture sessions and 2 tutorial sections.
+
+Quantum information are on Thursday 2 and 9 June. We will have a total of 8 one-and-a-half-hour lecture sessions and 2 tutorial sessions.
+
+## Reading materials
 
 * [Zw] Barton Zwiebach's [lecture notes for MIT8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/), 2013
 * [Ha] Aram Harrow's notes for MIT8.06 Quantum Physics III ["Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/), 2016
 * [SW] Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010
 * [Pr] John Preskill, [lecture notes for Ph219/CS219 Quantum Computation](http://theory.caltech.edu/~preskill/ph219/index.html), Caltech
 * [Fu] Keisuke Fujii, "Stabilizer Formalism and Its Applications" in *Quantum Computing with Topological Codes*, Springer, 2015
+
+The first three references are undergraduate level. The first one especially is for those who are not familiar with Dirac bra-ket notation (for example, if you have only seen Griffiths' *Quantum Mechanics*.)
+
+## Schedule
 
 |Session| Topics | Resources |
 |:----:|:--------------|:-------|
@@ -28,11 +34,9 @@ Quantum information are on Thursday 2 and 9 June. We will have a total of 8 one-
 Quantum information science capitalizes on quantum weirdness. In these lectures, I will eventually focus on a particular application of quantum weirdness: quantum computing. The goal is to show you that primitives from quantum information theory such as teleportation can be applied in an interesting way.
 
 
-## Tentative references
+<!-- ## Tentative references
 * [Ba] Leslie E. Ballentine, *Quantum Theory: A Modern Development*, World Scientific, 1998.
-* [Pr] Preskill, lecture notes for Ph219/CS219 Quantum Computation, Caltech
-
-<!-- 
+* [Pr] Preskill, lecture notes for Ph219/CS219 Quantum Computation, Caltech 
 * [Ma] E.B. Manoukian, *Quantum Theory: A Wide Spectrum*, Springer, 2006.
 * [C-T] Claude Cohen-Tannoudji, Bernard Diu, and Franck Laloë, *Quantum Mechanics*, 2 volumes, Wiley-VCH, 1977. 
 * [Sh] R. Shankar, *Principles of Quantum Mechanics*, 2nd ed., Plenum Press 1994. 
