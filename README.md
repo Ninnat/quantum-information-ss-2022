@@ -5,12 +5,15 @@
 Quantum information are on Thursday 2 and 9 June. We have a total of 10 1.5-hour sessions separated by breaks.
 
 [Pr] Preskill, lecture notes for Ph219/CS219 Quantum Computation, Caltech
+[SW] Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010.
+[Zw] Zwiebach's [lecture notes for MIT8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/), 2013
+[Ha] Aram Harrow's notes for MIT8.06 Quantum Physics III ["Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/), 2016
 
 |Session| Topics | Resources |
 |:----:|:--------------|:-------|
-|1|Scope of quantum information science, Review of the bra-ket notation, operators, and tensor product, Qubit <br> | [Zweibach's notes for MIT8.05](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/)|
-|2|Elitzur-Vaidman bomb detector, Density operator formalism, Bell entangled states, Quantum eraser |[Harrow's notes for MIT8.06 "Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/) <br> Pr 2 |   
-|3| Bell nonlocality, Teleportation, A glimpse of entanglement theory: conversions under LOCC | |
+|1|Scope of quantum information science, Probability theory, Review of the bra-ket notation and linear opererators, Qubit <br> | Zw 2,3,4,7 <br> SW 2,3,4.5|
+|2|Qubit (cont.), Elitzur-Vaidman bomb tester, Composite systems and tensor product, Density operators, Quantum eraser | <br> Zw 8 ["Multiparticle states and tensor product"](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_08/) <br> [Ha](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/) <br> SW 6,8, Pr 2 |   
+|3| Bell nonlocality, Teleportation | |
 |4| Dual role of observables, Generalized measurements, Representations of quantum channels, Examples of non-unitary channels: depolarizing and dephasing channels, Decoherence |Pr 3|
 |T|Tutorial|
 |5| Quantum algorithms: Grover's search algorithm||
