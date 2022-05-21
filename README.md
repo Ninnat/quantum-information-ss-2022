@@ -12,7 +12,7 @@ Quantum information are on Thursday 2 and 9 June. We will have a total of 8 one-
 * [Pr] John Preskill, [lecture notes for Ph219/CS219 Quantum Computation](http://theory.caltech.edu/~preskill/ph219/index.html), Caltech
 * [Fu] Keisuke Fujii, "Stabilizer Formalism and Its Applications" in *Quantum Computing with Topological Codes*, Springer, 2015
 
-The first three references are undergraduate level. The first one especially is for those who are not familiar with Dirac bra-ket notation (for example, if you have only seen Griffiths' *Quantum Mechanics*.)
+The first three references are undergraduate level. The first one especially is for those who are not familiar with Dirac bra-ket notation (for example, those that have only seen quantum mechanics from Griffiths' book.)
 
 ## Schedule
 
