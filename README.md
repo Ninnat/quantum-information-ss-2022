@@ -25,7 +25,7 @@ The first three references are undergraduate level. The first one especially is 
 |T|Tutorial|
 |5| **Quantum algorithms** <br> Universal gate sets, Grover's search algorithm|Pr 5,6|
 |6| Algorithms with black-box exponential speedup: Simon's algorithm, Quantum phase estimation|Pr 6|
-|7| **Quantum computing** <br> Graph and stabilizer states, Gottesman-Knill theorem, Measurement-based quantum computation|Pr notes on cluster states, Fu|
+|7| **Quantum computing** <br> Graph and stabilizer states, Gottesman-Knill theorem, Measurement-based quantum computation (optional)|Pr notes on cluster states, Fu|
 |8| Quantum error correction, Surface code|Pr 7, notes on toric code|
 |T|Tutorial|
 
