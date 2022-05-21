@@ -4,7 +4,7 @@
 
 Quantum information are on Thursday 2 and 9 June. We will have a total of 8 one-and-a-half-hour lecture sessions and 2 tutorial sections.
 
-* [Zw] Zwiebach's [lecture notes for MIT8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/), 2013
+* [Zw] Barton Zwiebach's [lecture notes for MIT8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/), 2013
 * [Ha] Aram Harrow's notes for MIT8.06 Quantum Physics III ["Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/), 2016
 * [SW] Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010
 * [Pr] John Preskill, [lecture notes for Ph219/CS219 Quantum Computation](http://theory.caltech.edu/~preskill/ph219/index.html), Caltech
