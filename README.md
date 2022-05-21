@@ -19,8 +19,8 @@ Quantum information are on Thursday 2 and 9 June. We will have a total of 8 one-
 |T|Tutorial|
 |5| Quantum algorithms: Grover's search algorithm|Pr 5,6|
 |6| Simon's algorithm, Quantum phase estimation|Pr 6|
-|7| Graph states and stabilizer states, Gottesman-Knill theorem, Measurement-based quantum computation|Pr 7, notes on cluster states|
-|8| Quantum error correction, Surface code|Pr notes on toric code|
+|7| Graph states and stabilizer states, Gottesman-Knill theorem, Measurement-based quantum computation|Pr notes on cluster states, Fu|
+|8| Quantum error correction, Surface code|Pr 7,notes on toric code|
 |T|Tutorial|
 
 
