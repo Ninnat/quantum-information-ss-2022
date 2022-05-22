@@ -19,8 +19,8 @@ The first three references are undergraduate level. The first one especially is 
 |Session| Topics | Resources |
 |:----:|:--------------|:-------|
 |1| **Formalism (AKA Quantum mechanics that you should know but are not taught in school)** <br> Scope of quantum information science, Probability theory, Review of the bra-ket notation and linear operators| Zw 2,3,4,7 <br> SW 2,3,4.5|
-|2|Qubit, Elitzur-Vaidman bomb tester, Composite systems and tensor product, EPR and Bell, Density operators and entanglement | <br> Zw 8 ["Multiparticle states and tensor product"](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_08/) <br> Ha, SW 6,8, Pr 2 |   
-|3| Density operators and entanglement (cont.): quantum eraser, Teleportation | |
+|2|Qubit, Elitzur-Vaidman bomb tester, Composite systems and tensor product, No-cloning, EPR and Bell | <br> Zw 8 ["Multiparticle states and tensor product"](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_08/) <br> Ha, SW 6,8, Pr 2 |   
+|3| Density operators and entanglement: quantum eraser, Teleportation |Pr 2|
 |4| Quantum circuit model, Generalized measurements, Examples of non-unitary evolutions: depolarizing and dephasing channels, Decoherence |Ha, Pr 3|
 |T|Tutorial|
 |5| **Quantum algorithms** <br> Universal gate sets, Grover's search algorithm|Pr 5,6|
