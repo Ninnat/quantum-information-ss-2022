@@ -24,7 +24,7 @@ The first three references are undergraduate level. The first one especially is 
 |4| No-Cloning, Teleportation, Quantum circuit model, Universal gate sets and the Solovay-Kitaev theorem |Pr 5|
 |T|Tutorial|[Problem Set 1](https://github.com/Ninnat/quantum-courses/blob/main/problem-sets/PSET1.pdf)|
 |5| **Quantum algorithms** <br> Grover's search algorithm|Pr 5,6|
-|6| Quantum Fourier transform, Quantum phase estimation|Pr 6|
+|6| Quantum Fourier transform and quantum phase estimation|Pr 6|
 |7| **Ideas in Quantum computing** <br> Generalized dynamics and measurements, Decoherence and non-unitary qubit dynamics; T1 and T2 time|Ha, Pr 3|
 |8| Quantum error correction, Surface code|Pr 7, notes on toric code|
 |T|Tutorial|Problem Set 2|
