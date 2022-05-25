@@ -22,7 +22,7 @@ The first three references are undergraduate level. The first one especially is 
 |2|Qubit (cont.): Elitzur-Vaidman bomb tester, Composite systems and tensor product, EPR and Bell, Density operators | <br> Zw 8 ["Multiparticle states and tensor product"](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_08/) <br> Ha, SW 6,8, Pr 2 |   
 |3| Density operators and entanglement: reduced states, purification, and quantum eraser, Quantum circuit diagrams |Pr 2|
 |4| No-Cloning, Teleportation, Quantum error channels and decoherence |Ha, Pr 3|
-|T|Tutorial|[Problem Set I](https://github.com/Ninnat/quantum-courses/blob/main/problem-sets/PSET1.pdf)|
+|T|Tutorial|[Problem Set 1](https://github.com/Ninnat/quantum-courses/blob/main/problem-sets/PSET1.pdf)|
 |5| **Quantum algorithms** <br> Universal gate sets, Grover's search algorithm|Pr 5,6|
 |6| Algorithms with black-box exponential speedup: Simon's algorithm, Quantum phase estimation|Pr 6|
 |7| **Ideas in Quantum computing** <br> Graph and stabilizer states, Gottesman-Knill theorem, Measurement-based quantum computation (optional)|Pr notes on cluster states, Fu|
