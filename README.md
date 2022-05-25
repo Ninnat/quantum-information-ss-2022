@@ -20,8 +20,8 @@ The first three references are undergraduate level. The first one especially is 
 |:----:|:--------------|:-------|
 |1| **Formalism (AKA Quantum mechanics that we should know but are not taught in school)** <br> Scope of quantum information science, Review of probability, Review of the bra-ket notation and linear operators, Qubit| Zw 2,3,4,7 <br> SW 2,3,4.5|
 |2|Qubit (cont.): Elitzur-Vaidman bomb tester, Composite systems and tensor product, EPR and Bell, Density operators | <br> Zw 8 ["Multiparticle states and tensor product"](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_08/) <br> Ha, SW 6,8, Pr 2 |   
-|3| Density operators and entanglement: reduced states, purification, and quantum eraser |Pr 2|
-|4| No-Cloning, Teleportation, Generalized dynamics and measurements, Decoherence and non-unitary qubit dynamics; T1 and T2 time |Ha, Pr 3|
+|3| Density operators and entanglement: reduced states, purification, and quantum eraser, Teleportation |Pr 2|
+|4| No-Cloning, Generalized dynamics and measurements, Decoherence and non-unitary qubit dynamics; T1 and T2 time |Ha, Pr 3|
 |T|Tutorial|[Problem Set 1](https://github.com/Ninnat/quantum-courses/blob/main/problem-sets/PSET1.pdf)|
 |5| **Quantum computing** <br> Quantum circuit diagrams, Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem|Pr 5|
 |6| Grover's search algorithm|Pr 6|
