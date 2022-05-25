@@ -23,9 +23,9 @@ The first three references are undergraduate level. The first one especially is 
 |3| Density operators and entanglement: reduced states, purification, and quantum eraser, No-Cloning, Teleportation |Pr 2|
 |4| **Quantum computing** <br> Quantum circuit diagrams, Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem |Pr 5|
 |T|Tutorial|[Problem Set 1](https://github.com/Ninnat/quantum-courses/blob/main/problem-sets/PSET1.pdf)|
-|5| Grover's search algorithm|Pr 5,6|
+|5| Grover's search algorithm|Pr 6|
 |6| Quantum Fourier transform and quantum phase estimation|Pr 6|
-|7| **Decoherence and its mitigation** <br> Generalized dynamics and measurements, Decoherence and non-unitary qubit dynamics; T1 and T2 time|Ha, Pr 3|
+|7| **Decoherence** <br> Generalized dynamics and measurements, Decoherence and non-unitary qubit dynamics; T1 and T2 time|Ha, Pr 3|
 |8| Quantum error correction, Toric code|Pr 7, notes on toric code|
 |T|Tutorial|Problem Set 2|
 
