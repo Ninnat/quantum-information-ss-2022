@@ -2,7 +2,7 @@
 
 
 
-Quantum information are on Thursday 2 and 9 June. We will have a total of 8 one-and-a-half-hour lecture sessions and 2 tutorial sessions.
+Quantum Information are on Thursday 2 and 9 June. We will have a total of 8 one-and-a-half-hour lecture sessions and 2 tutorial sessions.
 
 ## Resources
 
@@ -31,11 +31,11 @@ The first three references are undergraduate level. The first one especially is 
 |T|Tutorial|Problem Set 2|
 
 
-## Course description
+<!--## Course description
 Quantum information science capitalizes on quantum weirdness. In these lectures, I will eventually focus on a particular application of quantum weirdness: quantum computing. The goal is to show you that primitives from quantum information theory such as teleportation can be applied in an interesting way.
 
 
-<!-- ## Tentative references
+## Tentative references
 * [Ba] Leslie E. Ballentine, *Quantum Theory: A Modern Development*, World Scientific, 1998.
 * [Pr] Preskill, lecture notes for Ph219/CS219 Quantum Computation, Caltech 
 * [Ma] E.B. Manoukian, *Quantum Theory: A Wide Spectrum*, Springer, 2006.
