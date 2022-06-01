@@ -49,5 +49,9 @@ Quantum information science capitalizes on quantum weirdness. In these lectures,
 * [Lecture notes](http://bohr.physics.berkeley.edu/classes/221/1011/221a.html) for Physics 221A Quantum Mechanics by Robert Littlejohn, UC Berkeley-->
 
 <center>
-<img src="QR.png" style="height: 500px;"/>
+<img src="QR.png" style="height: 400px;"/>
 </center>
+
+<p align="center">
+  <img height="400" src="QR.png">
+</p>
