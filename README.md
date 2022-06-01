@@ -51,5 +51,5 @@ Quantum information science capitalizes on quantum weirdness. In these lectures,
 Scanning the QR code below will bring you to this repository.
 
 <p align="center">
-  <img height="400" src="QR.png">
+  <img height="300" src="QR.png">
 </p>
