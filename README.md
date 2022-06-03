@@ -7,7 +7,7 @@ Quantum Information are on Thursday 2 and 9 June. We will have a total of 8 one-
 ## Resources
 
 * [Zw] Barton Zwiebach's [lecture notes for MIT8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/), 2013
-* [Ha] Aram Harrow's notes for MIT8.06 Quantum Physics III ["Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/), 2016
+* [Ha] Aram Harrow's [lecture notes for MIT8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/pages/lecture-notes/), 2016
 * [SW] Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010
 * [Pr] John Preskill, [lecture notes for Ph219/CS219 Quantum Computation](http://theory.caltech.edu/~preskill/ph219/index.html), Caltech
 * [NC] Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000
@@ -27,7 +27,7 @@ The first three references are undergraduate level. The first one especially is 
 |5| **Quantum computing** <br> No-cloning, Quantum circuit diagrams, Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem|Pr 5|
 |6| Grover's search algorithm|Pr 6|
 |7| Quantum Fourier transform and quantum phase estimation|Pr 6|
-|8| Generalized dynamics and measurements, Non-unitary qubit dynamics and decoherence; T1 and T2 time |Ha ["Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/) <br> Pr 3,7, NC 8 <br> Steve Girvin's Les Houches lectures on [Quantum Error Correction and Fault Tolerance](https://arxiv.org/abs/2111.08894|
+|8| Generalized dynamics and measurements, Non-unitary qubit dynamics and decoherence; T1 and T2 time |Ha ["Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/) <br> Pr 3,7, NC 8 <br> Steve Girvin's Les Houches lectures on [Quantum Error Correction and Fault Tolerance](https://arxiv.org/abs/2111.08894)|
 |T|Tutorial|Problem Set 2|
 
 
