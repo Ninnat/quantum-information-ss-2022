@@ -24,10 +24,10 @@ The first three references are undergraduate level. The first one especially is 
 |3| Interference and Elitzur-Vaidman bomb tester, Composite systems and tensor product, Bell's theorem | <br> Zw 8 ["Multiparticle states and tensor product"](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/resources/mit8_05f13_chap_08/) <br> SW 6, Pr 2 |   
 |4| Density operators and entanglement: reduced states, Schmidt decomposition, and purification, Teleportation |Ha ["Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/) <br> SW 8, Pr 2|
 |T| Tutorial|[Problem Set 1](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/PSET1.pdf) <br> [Solutions 1](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/Sol1.pdf)|
-|5| **Quantum computing** <br> No-cloning, Quantum circuit diagrams, Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem|Pr 5|
+|5| **Quantum computing** <br> No-cloning, Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem|Pr 5|
 |6| Grover's search algorithm|Pr 6|
-|7| Quantum Fourier transform and quantum phase estimation|Pr 6|
-|8| Generalized dynamics and measurements, Non-unitary qubit dynamics and decoherence; T1 and T2 time |Ha ["Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/) <br> Pr 3,7, NC 8 <br> Steve Girvin's Les Houches lectures on [Quantum Error Correction and Fault Tolerance](https://arxiv.org/abs/2111.08894)|
+|7| Quantum phase estimation and quantum Fourier transform|Pr 6|
+|8| Generalized dynamics and measurements, Non-unitary qubit dynamics and decoherence; T1 and T2 time, Intro to quantum error correction |Ha ["Entanglement, density matrices, and decoherence"](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/resources/mit8_06s16_chap3/) <br> Pr 3,7, NC 8 <br> Steve Girvin's Les Houches lectures on [Quantum Error Correction and Fault Tolerance](https://arxiv.org/abs/2111.08894)|
 |T|Tutorial|Problem Set 2|
 
 
