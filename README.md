@@ -1,4 +1,4 @@
-# IF Summer School 2022
+# NASxIF Summer School 2022
 
 
 
@@ -27,7 +27,7 @@ The first three references are undergraduate level. The first one especially is 
 |5| **Quantum computing** <br> Quantum circuit diagrams, Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem|Pr 5|
 |6| Grover's search algorithm|Pr 6|
 |7| Quantum Fourier transform and quantum phase estimation|Pr 6|
-|8| Quantum error correction, Toric code|Pr 7, notes on toric code|
+|8| Quantum error correction, Toric code|Pr 7 <br> Girvin's Les Houches lectures on [Quantum Error Correction and Fault Tolerance](https://arxiv.org/abs/2111.08894)|
 |T|Tutorial|Problem Set 2|
 
 
