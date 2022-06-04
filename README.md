@@ -28,7 +28,7 @@ The first three references are undergraduate level. The first one especially is 
 |6| Grover's search algorithm|Ha 5, Pr 6, NC 6|
 |7| Quantum phase estimation and quantum Fourier transform|Pr 6, NC 5|
 |8| Generalized dynamics and measurements, Non-unitary qubit dynamics and decoherence; T1 and T2 time, Intro to quantum error correction |Ha 3, Pr 3,7, NC 8 <br> Steve Girvin's Les Houches lectures on [Quantum Error Correction and Fault Tolerance](https://arxiv.org/abs/2111.08894)|
-|T|Tutorial|Problem Set 2|
+|T|Tutorial|[Problem Set 2](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/PSET2.pdf)|
 
 
 <!--## Course description
