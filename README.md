@@ -19,10 +19,10 @@ The first three references are undergraduate level. The first one especially is 
 
 |Session| Topics | Resources |
 |:----:|:--------------|:-------|
-|1| **Formalism (AKA Quantum mechanics that we should know but are not taught in school)** <br> Scope of quantum information science, Review of probability, Review of the bra-ket notation and linear operators| Zw 2,3,4,7 <br> SW 3,4.5|
+|1| **Formalism (AKA Quantum mechanics that we should know but are not taught in school)** <br> Scope of quantum information science, Review of the bra-ket notation and linear operators| Zw 2,3,4,7 <br> SW 3,4.5|
 |2| Axioms of quantum mechanics, Qubit |Zw 7, SW 2,  Pr 2|
 |3| Interference and Elitzur-Vaidman bomb tester, Composite systems and tensor product, Bell's theorem | <br> Zw 8, SW 6, Pr 2 |   
-|4| Density operators and entanglement: reduced states, Schmidt decomposition, and purification, Teleportation |Ha 3, SW 8, Pr 2|
+|4| The concept of mixtures, Density operators and entanglement: reduced states, Schmidt decomposition, and purification, Teleportation |Ha 3, SW 8, Pr 2|
 |T| Tutorial|[Problem Set 1](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/PSET1.pdf) <br> [Solutions 1](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/Sol1.pdf)|
 |5| **Quantum computing** <br> No-cloning, Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem|Ha 5, Pr 5, NC 4|
 |6| Grover's search algorithm|Ha 5, Pr 6, NC 6|
