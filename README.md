@@ -13,7 +13,7 @@ Quantum Information are on Thursday 2 and 9 June. We will have a total of 8 one-
 * [NC] Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000
 <!--* [Fu] Keisuke Fujii, "Stabilizer Formalism and Its Applications" in *Quantum Computing with Topological Codes*, Springer, 2015-->
 
-The first three references are undergraduate level. The first one especially is for those who are not familiar with quantum mechanics in linear-algera style (for example, those who have only seen quantum mechanics from Griffiths' book.)
+The first three references are undergraduate level. The first one especially is for those who are not familiar with quantum mechanics in rigorous linear-algebra style (for example, those who have only seen quantum mechanics from David Griffiths' book.)
 
 ## Schedule
 
