@@ -28,8 +28,8 @@ The first three references are undergraduate level. The first one especially is 
 |5| **Quantum computing** <br> No-cloning, Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem|Har 5, Pre 5, NC 4|
 |6| Grover's search algorithm|Har 5, Pre 6, NC 6|
 |7| Quantum phase estimation and quantum Fourier transform|Pre 6, NC 5|
-|8| Generalized dynamics and measurements, Non-unitary qubit dynamics and decoherence; T1 and T2 time, Intro to quantum error correction |Har 3, Pre 3,7, NC 8, Kas 1-4|
-|T|Tutorial|[Problem Set 2](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/PSET2.pdf)|
+|8| Generalized dynamics and measurements, Non-unitary qubit dynamics and decoherence; T1 and T2 time |Har 3, Pre 3, NC 8|
+|T|Tutorial|[Problem Set 2](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/PSET2.pdf) <br> [Solutions 2](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/Sol2.pdf)|
 
 <!-- ## Additional resources
 
