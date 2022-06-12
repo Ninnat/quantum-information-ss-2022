@@ -12,7 +12,7 @@ Quantum Information are on Thursday 2 and 9 June. We will have a total of 8 one-
 <!--* [MK] Michael Kastoryano's [lecture notes on Quantum Error Correction](https://www.thp.uni-koeln.de/kastoryano/teaching.html), University of Cologne, 2019
 * [Fu] Keisuke Fujii, "Stabilizer Formalism and Its Applications" in *Quantum Computing with Topological Codes*, Springer, 2015-->
 
-The first three references are undergraduate level. The first one especially is for those who are not familiar with quantum mechanics in rigorous linear-algebra style (for example, those who have only seen quantum mechanics from David Griffiths' book.)
+The first three references are undergraduate level. The first one especially is for those who are not familiar with quantum mechanics done in a linear algebraic style (for example, those who have only seen David J. Griffiths' book.)
 
 ## Schedule
 
