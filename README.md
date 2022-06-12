@@ -1,18 +1,16 @@
-# NASxIF Summer School 2022
-
-
+# [NASxIF Summer School for Young Physicists 2022](https://www.if.nu.ac.th/2022-nas-if-summer-school/)
 
 Quantum Information are on Thursday 2 and 9 June. We will have a total of 8 one-and-a-half-hour lecture sessions and 2 tutorial sessions.
 
 ## Resources
 
-* [Zwe] Barton Zwiebach's [lecture notes for MIT8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/), 2013
-* [Har] Aram Harrow's [lecture notes for MIT8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/pages/lecture-notes/), 2016
+* [BZ] Barton Zwiebach's [lecture notes for MIT8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/), 2013
+* [AH] Aram Harrow's [lecture notes for MIT8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2016/pages/lecture-notes/), 2016
 * [SW] Benjamin Schumacher and Michael Westmoreland, *Quantum Processes, Systems, & Information*, Cambridge University Press, 2010
-* [Pre] John Preskill, [lecture notes for Ph219/CS219 Quantum Computation](http://theory.caltech.edu/~preskill/ph219/index.html), Caltech
+* [JP] John Preskill, [lecture notes for Ph219/CS219 Quantum Computation](http://theory.caltech.edu/~preskill/ph219/index.html), Caltech
 * [NC] Michael Nielsen and Isaac Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press, 2000
-* [Kas] Michael Kastoryano's [lecture notes on Quantum Error Correction](https://www.thp.uni-koeln.de/kastoryano/teaching.html), University of Cologne, 2019
-<!--* [Fu] Keisuke Fujii, "Stabilizer Formalism and Its Applications" in *Quantum Computing with Topological Codes*, Springer, 2015-->
+<!--* [MK] Michael Kastoryano's [lecture notes on Quantum Error Correction](https://www.thp.uni-koeln.de/kastoryano/teaching.html), University of Cologne, 2019
+* [Fu] Keisuke Fujii, "Stabilizer Formalism and Its Applications" in *Quantum Computing with Topological Codes*, Springer, 2015-->
 
 The first three references are undergraduate level. The first one especially is for those who are not familiar with quantum mechanics in rigorous linear-algebra style (for example, those who have only seen quantum mechanics from David Griffiths' book.)
 
@@ -20,15 +18,15 @@ The first three references are undergraduate level. The first one especially is 
 
 |Session| Topics | Resources |
 |:----:|:--------------|:-------|
-|1| **Formalism (AKA Quantum mechanics that we should know but are not taught in school)** <br> Scope of quantum information science, Review of the bra-ket notation and linear operators| Zwe 2-4,7 <br> SW 3-4.5|
-|2| Axioms of quantum mechanics, Qubit |Zwe 7, SW 2,  Pre 2|
-|3| Interference and Elitzur-Vaidman bomb tester, Composite systems and tensor product, Bell's theorem | <br> Zwe 8, SW 6, Pre 2 |   
-|4| The concept of mixtures, Density operators and entanglement: reduced states, Schmidt decomposition, and purification, Teleportation |Har 3, SW 8, Pre 2|
+|1| **Formalism (AKA Quantum mechanics that we should know but are not taught in school)** <br> Scope of quantum information science, Review of the bra-ket notation and linear operators| BZ 2-4,7 <br> SW 3-4.5|
+|2| Axioms of quantum mechanics, Qubit |BZ 7, SW 2,  JP 2|
+|3| Interference and Elitzur-Vaidman bomb tester, Composite systems and tensor product, Bell's theorem | <br> BZ 8, SW 6, JP 2 |   
+|4| The concept of mixtures, Density operators and entanglement: reduced states, Schmidt decomposition, and purification, Teleportation |AH 3, SW 8, JP 2|
 |T| Tutorial|[Problem Set 1](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/PSET1.pdf) <br> [Solutions 1](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/Sol1.pdf)|
-|5| **Quantum computing** <br> No-cloning, Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem|Har 5, Pre 5, NC 4|
-|6| Grover's search algorithm|Har 5, Pre 6, NC 6|
-|7| Quantum phase estimation and quantum Fourier transform|Pre 6, NC 5|
-|8| Generalized dynamics and measurements, Non-unitary qubit dynamics and decoherence; T1 and T2 time |Har 3, Pre 3, NC 8|
+|5| **Quantum computing** <br> Circuit model of computing, Universal gate sets and the Solovay-Kitaev theorem|AH 5, JP 5, NC 4|
+|6| Grover's search algorithm|AH 5, JP 6, NC 6|
+|7| Quantum phase estimation and quantum Fourier transform|JP 6, NC 5|
+|8| No-cloning, Generalized dynamics and measurements, Non-unitary qubit dynamics and decoherence; T1 and T2 time |AH 3, JP 3, NC 8|
 |T|Tutorial|[Problem Set 2](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/PSET2.pdf) <br> [Solutions 2](https://github.com/Ninnat/quantum-courses/blob/main/Problem%20sets/Sol2.pdf)|
 
 <!-- ## Additional resources
