@@ -4,14 +4,14 @@ Scanning the QR code below will bring you to this repository.
   <img height="300" src="QR.png">
 </p>
 
-# M897564 Non-Relativistic Quantum Mechanics (Second half) 1/2565 (2022)
+# M897564 Non-Relativistic Quantum Mechanics (Second half)
 
-|Homework|Date| Topics |Lecture notes|Resources|
-|:------:|:--:|:------:|:-----------:|:-------:|
-||16 Aug|
-||18 Aug|
-||23 Aug|
-||26 Aug|
+|Date| Topics |Lecture notes|Homework|Resources|
+|:--:|:------:|:-----------:|:------:|:-------:|
+|16 Aug|Review of postulates of quantum mechanics, measurements|
+|18 Aug|The harmonic oscillator|
+|23 Aug|
+|26 Aug|
 
 # [NASxIF Summer School for Young Physicists 2022](https://www.if.nu.ac.th/2022-nas-if-summer-school/)
 
