@@ -8,10 +8,33 @@ Scanning the QR code below will bring you to this repository.
 
 |Date| Topics |Lecture notes|Homework|Resources|
 |:--:|:------:|:-----------:|:------:|:-------:|
-|16 Aug|Review of postulates of quantum mechanics, measurements|
-|18 Aug|The harmonic oscillator|
-|23 Aug|
-|26 Aug|
+|T 30 Aug|Review of postulates of quantum mechanics, measurements|
+|W 31 Aug|**No tutorial class**|
+|Th 1 Sep|**No class**|
+|T 6 Sep|
+|W 7 Sep|
+|Th 8 Sep|
+|T 13 Sep|
+|W 14 Sep|
+|Th 15 Sep|
+|T 20 Sep|
+|W 21 Sep|
+|Th 22 Sep|
+|T 27 Sep|
+|W 28 Sep|
+|Th 29 Sep|
+|T 4 Oct|
+|W 5 Oct|
+|Th 6 Oct|
+|T 11 Oct|
+|W 12 Oct|
+|Th 13 Oct|
+|T 18 Oct|
+|W 19 Oct|
+|Th 20 Oct|
+|T 25 Oct|
+|W 26 Oct|
+|Th 27 Oct|
 
 # [NASxIF Summer School for Young Physicists 2022](https://www.if.nu.ac.th/2022-nas-if-summer-school/)
 
