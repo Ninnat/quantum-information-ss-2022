@@ -10,7 +10,7 @@ Scanning the QR code below will bring you to this repository.
 |:--:|:------:|:-----------:|:------:|:-------:|
 |T 30 Aug|Review of postulates of quantum mechanics, measurements|
 |W 31 Aug|**No tutorial class**|
-|Th 1 Sep|**No class**|
+|Th 1 Sep|**No class** (We Are IF activity)|
 |T 6 Sep|Simple Harmonic Oscillator (SHO) I|
 |W 7 Sep|SHO II|
 |Th 8 Sep|SHO III; coherent states and classicality|
